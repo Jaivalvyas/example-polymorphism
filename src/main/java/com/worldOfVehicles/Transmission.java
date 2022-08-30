@@ -27,4 +27,7 @@ public class Transmission {
         this.seventh_gear_ratio = seventh_gear_ratio;
         this.eighth_gear_ratio = eighth_gear_ratio;
     }
+
+    public Transmission() {
+    }
 }
