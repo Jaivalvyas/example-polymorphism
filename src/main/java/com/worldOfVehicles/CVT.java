@@ -7,8 +7,8 @@ package com.worldOfVehicles;
 
 public class CVT {
     void showSpecs(String s, String s1, int forward_gears, double first_gear_ratio, double second_gear_ratio, double third_gear_ratio, double fourth_gear_ratio, double fifth_gear_ratio, double sixth_gear_ratio) {
-        System.out.println("Transmission Type: " + s);
-        System.out.println("Transmission Model: " + s1);
+        System.out.println("Transmission Type:      " + s);
+        System.out.println("Transmission Model:     " + s1);
 
         System.out.println("Key Specifications: ");
         System.out.println("1. Forward Gears: " + forward_gears);
